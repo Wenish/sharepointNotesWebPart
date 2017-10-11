@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sharepoint-notes-web-part-client-side-solution",
+    "id": "c5c45123-9726-4d58-9b1f-c9241558aac0",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-notes-web-part.sppkg"
+  }
+}
